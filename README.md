@@ -1,6 +1,8 @@
 # Integrating Black Scholes Framework with Deep Learning Network Architecture for Enhanced Options Pricing
 The work presents a hybrid approach that integrates the classical Black–Scholes model with deep learning methods. By incorporating Black–Scholes outputs as additional features in a neural network model, the research demonstrates improvements in option pricing accuracy—offering a robust alternative to both the traditional analytical method and stand-alone deep learning approaches.
 
+This is an individual research done by Aaditya Raj Trivedee through Gerald and Carol Vovis Center for Research and Advanced Study under the guidance of Prof. Petko Kitanov (PhD), Mathematics Faculty, Knox College.
+
 ---
 
 ## Repository Structure
